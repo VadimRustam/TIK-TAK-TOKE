@@ -1,2 +1,1 @@
-print("lksdfjakdf")
-print(2+2)
+print("начало")
